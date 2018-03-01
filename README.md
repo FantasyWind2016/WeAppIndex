@@ -5,3 +5,4 @@
 
 ## 组件化
 - 官方组件化方案解读 http://leanote.com/blog/post/5a5dad39ab64412da30022e6
+- Min - 蘑菇街组件化方案 https://segmentfault.com/a/1190000011863560
