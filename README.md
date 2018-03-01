@@ -4,6 +4,7 @@
 - 小程序社区 http://www.wxapp-union.com
 
 ## 框架
+- wepy https://github.com/Tencent/wepy
 - mpVue by 美团 http://www.wxapp-union.com/portal.php?mod=view&aid=3233
 
 ## 组件化
