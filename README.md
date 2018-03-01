@@ -16,7 +16,7 @@
 - 豆瓣电影 微信小程序豆瓣电影项目的改造过程经验分享 http://www.wxapp-union.com/article-2991-1.html
 
 ## 项目设计
-- 后端实现 NAMI https://github.com/wodenwang/nami
+- 后端实现 NAMI https://github.com/wodenwang/nami http://www.wxapp-union.com/article-1454-1.html
 
 ## 开源项目
 - 电影推荐 https://github.com/yesifeng/wechat-weapp-movie
