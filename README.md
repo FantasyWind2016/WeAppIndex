@@ -7,9 +7,10 @@
 - wepy https://github.com/Tencent/wepy
 - mpVue by 美团 http://www.wxapp-union.com/portal.php?mod=view&aid=3233
 
-## 组件化
+## 组件化 & 模块化
 - 官方组件化方案解读 http://leanote.com/blog/post/5a5dad39ab64412da30022e6
 - Min - 蘑菇街组件化方案 https://tech.meili-inc.com/232-232
+- 微信小程序模块化开发实践 https://segmentfault.com/a/1190000007998447
 
 ## 工程化
 - 如何优雅地“搞”小程序之工程流程化 http://gitbook.cn/books/5907665bf501fd6d63a56ffb/index.html
